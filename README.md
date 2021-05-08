@@ -2,9 +2,11 @@
 This project contains dashboard report and data on Agriculture Produce in India from year 2001-2014.
 
 ## Report File
-Please find spreadsheet here - [Spreadsheet Link](https://docs.google.com/spreadsheets/d/1z49mzgHdyMi_Ys4UFRoaRHdPhLe6EDMpEgV04j4Ewxc/edit?usp=sharing)
+Please find spreadsheet here - [Spreadsheet Link](https://docs.google.com/spreadsheets/d/1z49mzgHdyMi_Ys4UFRoaRHdPhLe6EDMpEgV04j4Ewxc/edit?usp=sharing) 
 
 <a href="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQW-HfkdDu5YDLHVQPyP0N81wYFKkFYNtegMGW3vZlusFqhecx2WetjYi6L2WYX2N5CiHyJcba0_3qa/pubhtml#" title="Agriculture Produce Analytics">Agriculture Produce Analytics</a>
+
+Dropdown change mode is not available in view permissions. Mail me on gurmitseera96@gmail.com	 to get edit access to this sheet to enable drop down view.
 
 
 ## Reports
