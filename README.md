@@ -12,7 +12,7 @@ Dropdown change mode is not available in view permissions. Mail me on gurmitseer
 ## Reports
 
 ### Cost of Cultivation ( C2), Cost of Cultivation (A2 + FL), Cost of Production (C2) for States
-![Alt text](images/image1.png?raw=true "Cost of Cultivation ( C2), Cost of Cultivation (A2 + FL), Cost of Production (C2) for States")
+![Alt text](images/gif1.gif?raw=true "Cost of Cultivation ( C2), Cost of Cultivation (A2 + FL), Cost of Production (C2) for States")
 
 
 ### Production Rate (Ton Mn)
