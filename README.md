@@ -16,9 +16,9 @@ Dropdown change mode is not available in view permissions. Mail me on gurmitseer
 
 
 ### Production Rate (Ton Mn)
-![Alt text](images/image2.png?raw=true "Production Rate (Ton Mn)")
+![Alt text](images/gif2.gif?raw=true "Production Rate (Ton Mn)")
 
 
 ### Production, Area & Yield (Ton Mn)
-![Alt text](images/image3.png?raw=true "Production, Area & Yield (Ton Mn)")
+![Alt text](images/gif3.gif?raw=true "Production, Area & Yield (Ton Mn)")
 
