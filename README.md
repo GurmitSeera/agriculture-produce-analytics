@@ -6,7 +6,7 @@ Please find spreadsheet here - [Spreadsheet Link](https://docs.google.com/spread
 
 <a href="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQW-HfkdDu5YDLHVQPyP0N81wYFKkFYNtegMGW3vZlusFqhecx2WetjYi6L2WYX2N5CiHyJcba0_3qa/pubhtml#" title="Agriculture Produce Analytics">Agriculture Produce Analytics</a>
 
-Dropdown change mode is not available in view permissions. Mail me on gurmitseera96@gmail.com	 to get edit access to this sheet to enable drop down view.
+Dropdown change mode is not available in view permissions. Mail me on gurmitseera96@gmail.com	 to get edit access to enable drop down view.
 
 
 ## Reports
